@@ -1,4 +1,5 @@
-
+-- Criação de um banco de dados referente a uma Locadora_Veiculos --
+-- estudo de modelagem de banco por meio do SQL server --
 
 CREATE DATABASE LOCADORA_INCOMPLETA;
 GO
